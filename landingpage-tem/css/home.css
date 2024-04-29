@@ -1,0 +1,21 @@
+/* test css */
+
+body {
+    background-color: blue;
+    color: yellow;
+}
+
+
+#showspn {
+    color: rgba(255, 65, 100, 1);
+    font-size: 25px;
+}
+
+#showspn:hover {
+    color: rgb(4, 220, 248);
+}
+
+
+
+
+/************/
