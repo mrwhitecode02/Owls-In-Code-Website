@@ -6,6 +6,16 @@ body {
 }
 
 
+#message {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 40px;
+    
+}
+
 #showspn {
     color: rgba(255, 65, 100, 1);
     font-size: 25px;
